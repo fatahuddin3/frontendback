@@ -1,0 +1,26 @@
+/* Doctor intro page styles */
+.intro-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.doctor-info {
+    margin-bottom: 20px;
+}
+
+.back-button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+    .back-button:hover {
+        background-color: #0056b3;
+    }

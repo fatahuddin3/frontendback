@@ -1,0 +1,55 @@
+.bill-management {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+    .bill-management h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+.status-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 20px;
+}
+
+    .status-buttons button {
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+        .status-buttons button:hover {
+            background-color: #0056b3;
+        }
+
+.bill-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.bill-list th, .bill-list td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.bill-list th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.bill-list td {
+    background-color: #f2f2f2;
+}
