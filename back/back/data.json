@@ -1,0 +1,18 @@
+const users= [
+  {
+    "name": "fat",
+    "email": "gmail.com"
+  },
+  {
+    "name": "tay",
+    "email": "hotmail"
+  },
+  {
+    "name": "raf",
+    "email": "balermail"
+  },
+  {
+    "name": "anj",
+    "email": "dhur.com"
+  }
+]

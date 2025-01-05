@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">14.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <Name>back</Name>
+    <RootNamespace>back</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>5ae4b711-d1a1-40e9-b871-685c703c264e</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>App.js</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <ProjectTypeGuids>{3AF33F2E-1136-4D97-BBB7-1795711AC8B8};{349c5851-65df-11da-9384-00065b846f21};{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}</ProjectTypeGuids>
+    <NodejsPort>1337</NodejsPort>
+    <StartWebBrowser>true</StartWebBrowser>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="App.js" />
+    <Content Include="config.env" />
+    <Content Include="conn\conn.js" />
+    <Content Include="controllers\appointmentController.js" />
+    <Content Include="controllers\authController.js" />
+    <Content Include="controllers\doctorController.js" />
+    <Content Include="controllers\PatientController.js" />
+    <Content Include="controllers\userController.js" />
+    <Content Include="data.js" />
+    <Content Include="data.json" />
+    <Content Include="DatabaseConnection.js" />
+    <Content Include="middlewares\adminAuth.js" />
+    <Content Include="middlewares\authdoc.js" />
+    <Content Include="middlewares\authMidd.js" />
+    <Content Include="middlewares\authMiddleware.js" />
+    <Content Include="middlewares\authMiddleware2.js" />
+    <Content Include="middlewares\authMiddleware3.js" />
+    <Content Include="middlewares\authMiddleware4.js" />
+    <Content Include="middlewares\authMiddleware5.js" />
+    <Content Include="middlewares\logger.js" />
+    <Content Include="middlewares\protected.js" />
+    <Content Include="middlewares\requireLogin.js" />
+    <Content Include="models\Admission.js" />
+    <Content Include="models\Appointment.js" />
+    <Content Include="models\Assessment.js" />
+    <Content Include="models\Bill.js" />
+    <Content Include="models\Book.js" />
+    <Content Include="models\Bookin.js" />
+    <Content Include="models\Consent.js" />
+    <Content Include="models\DigitalMedicalRecord.js" />
+    <Content Include="models\Discharge.js" />
+    <Content Include="models\Dischargenok.js" />
+    <Content Include="models\Doctor.js" />
+    <Content Include="models\doctors.js" />
+    <Content Include="models\Inpatient.js" />
+    <Content Include="models\Ipdnurses.js" />
+    <Content Include="models\Medication.js" />
+    <Content Include="models\model.js" />
+    <Content Include="models\Nurseactvity.js" />
+    <Content Include="models\Nurses.js" />
+    <Content Include="models\Patient.js" />
+    <Content Include="models\patients.js" />
+    <Content Include="models\Pharmacy.js" />
+    <Content Include="models\Prescription.js" />
+    <Content Include="models\Report.js" />
+    <Content Include="models\Room.js" />
+    <Content Include="models\Telemedicine.js" />
+    <Content Include="models\user.js" />
+    <Content Include="package.json" />
+    <Content Include="README.md" />
+    <Content Include="routes\appointmentRoutes.js" />
+    <Content Include="routes\auth.js" />
+    <Content Include="routes\billRoutes.js" />
+    <Content Include="routes\bookRoutes.js" />
+    <Content Include="routes\booRoutes.js" />
+    <Content Include="routes\dischargeRoutes.js" />
+    <Content Include="routes\dischRoutes.js" />
+    <Content Include="routes\doctorRoutes.js" />
+    <Content Include="routes\inpatroutes.js" />
+    <Content Include="routes\medirecoRoutes.js" />
+    <Content Include="routes\mediRoutes.js" />
+    <Content Include="routes\PatientRoute.js" />
+    <Content Include="routes\patientRoutes.js" />
+    <Content Include="routes\pharmRoutes.js" />
+    <Content Include="routes\presRoutes.js" />
+    <Content Include="routes\reportRoutes.js" />
+    <Content Include="routes\TelemediRoutes.js" />
+    <Content Include="routes\user.js" />
+    <Content Include="routes\UserRoute.js" />
+    <Content Include="Server.js" />
+    <Content Include="vercel.json" />
+    <Content Include="views\index.pug" />
+    <Content Include="views\layout.pug" />
+    <Content Include="views\error.pug" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="controllers\" />
+    <Folder Include="models\" />
+    <Folder Include="config\" />
+    <Folder Include="middlewares\" />
+    <Folder Include="conn\" />
+    <Folder Include="routes\" />
+    <Folder Include="views\" />
+  </ItemGroup>
+  <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:48022/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost:1337</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
