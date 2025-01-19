@@ -683,7 +683,7 @@ app.use(express.json());
 app.use(log); // Custom logger middleware
 
 app.get('/', (req, res) => {
-    res.status(200).json({ message: 'Hospital Management' });
+    res.status(200).json({ message: 'Hospital Management system' });
 });
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 

@@ -1,28 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\frontendback\\src\\components\\bookin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\bookin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\frontendback\\src\\components\\billmanagement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\billmanagement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\frontendback\\src\\components\\appointmentup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\appointmentup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\frontendback\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\frontendback\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,71 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bookin.jsx",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\Bookin.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Bookin.jsx",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\Bookin.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\Bookin.jsx",
-              "ViewState": "AQIAALMAAAAAAAAAAAAAwMEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-02T17:35:11.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BillManagement.jsx",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\BillManagement.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\BillManagement.jsx",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\BillManagement.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\BillManagement.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-02T17:35:09.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Appointmentup.jsx",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\Appointmentup.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Appointmentup.jsx",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\Appointmentup.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\Appointmentup.jsx",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-02T17:35:04.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.jsx",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\Home.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Home.jsx",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\components\\Home.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\Home.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-01T09:25:58.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\index.css",
-              "RelativeDocumentMoniker": "frontendback\\src\\index.css",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\frontendback\\src\\index.css",
-              "RelativeToolTip": "frontendback\\src\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-01T09:25:30.945Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

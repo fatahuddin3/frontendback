@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\Server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\Server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\Doctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\Doctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\doctorRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\doctorRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\dischRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\dischRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\DigitalMedicalRecord.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\DigitalMedicalRecord.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -14,15 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "doctorRoutes.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\doctorRoutes.js",
+              "RelativeDocumentMoniker": "back\\routes\\doctorRoutes.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\doctorRoutes.js",
+              "RelativeToolTip": "back\\routes\\doctorRoutes.js",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-08T08:54:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\Doctor.js",
+              "RelativeDocumentMoniker": "back\\models\\Doctor.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\Doctor.js",
+              "RelativeToolTip": "back\\models\\Doctor.js",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-08T08:53:53.383Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Server.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\Server.js",
+              "RelativeDocumentMoniker": "back\\Server.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\Server.js",
+              "RelativeToolTip": "back\\Server.js",
+              "ViewState": "AQIAAH8CAAAAAAAAAAAAAMgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-08T08:44:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dischRoutes.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\dischRoutes.js",
+              "RelativeDocumentMoniker": "back\\routes\\dischRoutes.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\dischRoutes.js",
+              "RelativeToolTip": "back\\routes\\dischRoutes.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-05T05:59:15.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DigitalMedicalRecord.js",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\DigitalMedicalRecord.js",
               "RelativeDocumentMoniker": "back\\models\\DigitalMedicalRecord.js",
@@ -30,8 +91,7 @@
               "RelativeToolTip": "back\\models\\DigitalMedicalRecord.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-05T05:36:01.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T05:36:01.198Z"
             }
           ]
         }
