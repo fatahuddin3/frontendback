@@ -7,20 +7,44 @@
       "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\Server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\Doctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\Doctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\doctorRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\doctorRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\DatabaseConnection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\DatabaseConnection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\dischRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\dischRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\config.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\config.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\DigitalMedicalRecord.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\DigitalMedicalRecord.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\usersRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\usersRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\BookingModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\BookingModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\CarModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\CarModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\userModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\userModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\bookingsRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\bookingsRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\carsRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\carsRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,31 +54,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "doctorRoutes.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\doctorRoutes.js",
-              "RelativeDocumentMoniker": "back\\routes\\doctorRoutes.js",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\doctorRoutes.js",
-              "RelativeToolTip": "back\\routes\\doctorRoutes.js",
-              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKgAAAAoAAAA",
+              "Title": "DatabaseConnection.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\DatabaseConnection.js",
+              "RelativeDocumentMoniker": "back\\DatabaseConnection.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\DatabaseConnection.js",
+              "RelativeToolTip": "back\\DatabaseConnection.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-08T08:54:30.742Z"
+              "WhenOpened": "2025-01-25T17:08:26.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Doctor.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\Doctor.js",
-              "RelativeDocumentMoniker": "back\\models\\Doctor.js",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\Doctor.js",
-              "RelativeToolTip": "back\\models\\Doctor.js",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKUAAAAGAAAA",
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\App.js",
+              "RelativeDocumentMoniker": "back\\App.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\App.js",
+              "RelativeToolTip": "back\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-08T08:53:53.383Z"
+              "WhenOpened": "2025-01-25T17:08:08.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.env",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\config.env",
+              "RelativeDocumentMoniker": "back\\config.env",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\config.env",
+              "RelativeToolTip": "back\\config.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T04:49:50.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userModel.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\userModel.js",
+              "RelativeDocumentMoniker": "back\\models\\userModel.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\userModel.js",
+              "RelativeToolTip": "back\\models\\userModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T14:21:48.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "carsRoute.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\carsRoute.js",
+              "RelativeDocumentMoniker": "back\\routes\\carsRoute.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\carsRoute.js",
+              "RelativeToolTip": "back\\routes\\carsRoute.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-08T08:54:30.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,34 +129,75 @@
               "RelativeDocumentMoniker": "back\\Server.js",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\Server.js",
               "RelativeToolTip": "back\\Server.js",
-              "ViewState": "AQIAAH8CAAAAAAAAAAAAAMgCAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-01-08T08:44:00.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dischRoutes.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\dischRoutes.js",
-              "RelativeDocumentMoniker": "back\\routes\\dischRoutes.js",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\dischRoutes.js",
-              "RelativeToolTip": "back\\routes\\dischRoutes.js",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "carModel.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\CarModel.js",
+              "RelativeDocumentMoniker": "back\\models\\CarModel.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\CarModel.js",
+              "RelativeToolTip": "back\\models\\CarModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-05T05:59:15.767Z"
+              "WhenOpened": "2025-01-08T08:53:53.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bookingsRoute.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\bookingsRoute.js",
+              "RelativeDocumentMoniker": "back\\routes\\bookingsRoute.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\bookingsRoute.js",
+              "RelativeToolTip": "back\\routes\\bookingsRoute.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-22T02:24:47.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DigitalMedicalRecord.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\DigitalMedicalRecord.js",
-              "RelativeDocumentMoniker": "back\\models\\DigitalMedicalRecord.js",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\DigitalMedicalRecord.js",
-              "RelativeToolTip": "back\\models\\DigitalMedicalRecord.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "usersRoute.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\usersRoute.js",
+              "RelativeDocumentMoniker": "back\\routes\\usersRoute.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\usersRoute.js",
+              "RelativeToolTip": "back\\routes\\usersRoute.js",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-05T05:36:01.198Z"
+              "WhenOpened": "2025-01-22T02:19:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bookingModel.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\BookingModel.js",
+              "RelativeDocumentMoniker": "back\\models\\BookingModel.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\models\\BookingModel.js",
+              "RelativeToolTip": "back\\models\\BookingModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T14:46:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\auth.js",
+              "RelativeDocumentMoniker": "back\\routes\\auth.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\back\\back\\routes\\auth.js",
+              "RelativeToolTip": "back\\routes\\auth.js",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-22T02:32:59.539Z",
+              "EditorCaption": ""
             }
           ]
         }

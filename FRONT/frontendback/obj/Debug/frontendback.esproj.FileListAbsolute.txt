@@ -1,1 +1,2 @@
 C:\Users\HP\source\repos\frontendback\frontendback\obj\Debug\frontendback.esproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitProjects\frontendback\FRONT\frontendback\obj\Debug\frontendback.esproj.CoreCompileInputs.cache

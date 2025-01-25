@@ -108,14 +108,14 @@ import Ipdassessupd from './components/Ipdassessupd';
 import Ipdconsentupda from './components/Ipdconsentupda';
 function App() {
     return (
-        <DoctorProvider>
+      
             <Router>
                 <div className="App">
           
                     <Routes>
                         <Route path="/s" element={<Userlog />} />
                         <Route path="/register" element={<DoctorRegister />} />
-                        <Route path="/login" element={<DoctorLogin />} />
+                        <Route path="/j" element={<DoctorLogin />} />
                         <Route path="/docdash" element={<DoctorDashboard />} />
                         <Route path="/home" element={<Home />} />
                         <Route path="/doclist" element={<DoctorList />} />          
@@ -146,7 +146,7 @@ function App() {
                         <Route path="/rooms" element={< Rooms />} />
                         <Route path="/faqlist" element={< Faqlist />} />
                         <Route path="/faqitem" element={< Faqitem />} />
-                        <Route path="/userreg" element={< Patireg />} />
+                        <Route path="/" element={< Patireg />} />
                         <Route path="/r" element={< Patilist />} />
                         <Route path="/patidlt" element={< Patidlt />} />
                         <Route path="/s" element={< Patiupd />} />
@@ -197,7 +197,7 @@ function App() {
                     </Routes>
                 </div>
             </Router>
-        </DoctorProvider>
+       
     );
 }
 export default App;

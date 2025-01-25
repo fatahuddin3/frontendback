@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\components\\patientregister.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\patientregister.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\components\\doctorlogin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\doctorlogin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\components\\doctorlogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\doctorlogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\components\\patientregister.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\patientregister.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\services\\doctorservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\services\\doctorservice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\context\\doctorcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\context\\doctorcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientRegister.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\PatientRegister.css",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\PatientRegister.css",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\PatientRegister.css",
+              "RelativeToolTip": "frontendback\\src\\components\\PatientRegister.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T09:00:25.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorLogin.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\DoctorLogin.css",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\DoctorLogin.css",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\DoctorLogin.css",
+              "RelativeToolTip": "frontendback\\src\\components\\DoctorLogin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T08:51:47.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorContext.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\context\\DoctorContext.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\context\\DoctorContext.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\context\\DoctorContext.jsx",
+              "RelativeToolTip": "frontendback\\src\\context\\DoctorContext.jsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T10:59:01.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorLogin.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\DoctorLogin.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\DoctorLogin.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\DoctorLogin.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\DoctorLogin.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T10:56:25.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "doctorService.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\services\\doctorService.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\services\\doctorService.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\services\\doctorService.jsx",
+              "RelativeToolTip": "frontendback\\src\\services\\doctorService.jsx",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T09:17:37.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\App.jsx",
+              "RelativeToolTip": "frontendback\\src\\App.jsx",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAMgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T09:13:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRegister.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\PatientRegister.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\PatientRegister.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\PatientRegister.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\PatientRegister.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T09:06:55.458Z",
+              "EditorCaption": ""
             }
           ]
         }

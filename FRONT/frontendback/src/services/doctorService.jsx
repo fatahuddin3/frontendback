@@ -32,9 +32,9 @@ const deleteDoctor = async (email, token) => {
 export { registerDoctor, loginDoctor, getDoctors, deleteDoctor };*/
 import axios from 'axios';
 
-const API_URL = 'http://localhost:4000/doctors';
+const API_URL = 'http://localhost:4000/userrr';
 
-const Pat_URL = 'http://localhost:4000/pati';
+const Pat_URL = 'http://localhost:4000/userrr';
 const REPORTS_URL = 'http://localhost:4000/reports';
 const BILL_URL = 'http://localhost:4000/bills';
 const BILLS_URL = 'http://localhost:4000/tele';
@@ -47,16 +47,16 @@ const registerDoctor = async (doctorData) => {
 /*const registerPatient= async (doctorData) => {
     return await axios.post(`${Pat_URL}/register`, doctorData );
 };*/
- // Update with your backend URL
 
-const registerPatient = async (doctorId, doctorData) => {
-    const token =  localStorage.getItem('token'); // Or get the token from context
+
+const registerPatient = async (doctorData) => {
+    // Or get the token from context
     return await axios.post(
-        `${Pat_URL}/${doctorId}/register`,
+        `${Pat_URL}/register`,
         doctorData,
         {
             headers: {
-                'Authorization': `Bearer ${token}`,  // Include the token
+                 // Include the token
                 'Content-Type': 'multipart/form-data'
             }
         }
