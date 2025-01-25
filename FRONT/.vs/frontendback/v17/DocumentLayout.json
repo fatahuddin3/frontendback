@@ -38,6 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -111,6 +112,19 @@
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeToolTip": "frontendback\\src\\App.jsx",
               "ViewState": "AQIAAGEAAAAAAAAAAAAAAMgAAAAGAAAA",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bookin.jsx",
+              "DocumentMoniker": "D:\\frontendback\\FRONT\\frontendback\\src\\components\\Bookin.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Bookin.jsx",
+              "ToolTip": "D:\\frontendback\\FRONT\\frontendback\\src\\components\\Bookin.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Bookin.jsx",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAwAUBAAAGAAAAAAAAAA==",
+>>>>>>> 69b114242ec1b1dba124292f12706c20c6ee3782
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-22T09:13:25.529Z",
               "EditorCaption": ""
