@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\components\\fata.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\fata.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\frontendback\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -38,12 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Fata.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\Fata.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Fata.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\Fata.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Fata.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-26T04:52:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PatientRegister.css",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\PatientRegister.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\PatientRegister.css",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DoctorLogin.css",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\DoctorLogin.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\DoctorLogin.css",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "frontendback\\src\\components\\DoctorLogin.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-23T08:51:47.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:51:47.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DoctorContext.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\context\\DoctorContext.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\context\\DoctorContext.jsx",
@@ -80,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DoctorLogin.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\DoctorLogin.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\DoctorLogin.jsx",
@@ -88,12 +103,11 @@
               "RelativeToolTip": "frontendback\\src\\components\\DoctorLogin.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-22T10:56:25.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T10:56:25.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "doctorService.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\services\\doctorService.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\services\\doctorService.jsx",
@@ -105,33 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeToolTip": "frontendback\\src\\App.jsx",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAAAMgAAAAGAAAA",
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bookin.jsx",
-              "DocumentMoniker": "D:\\frontendback\\FRONT\\frontendback\\src\\components\\Bookin.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Bookin.jsx",
-              "ToolTip": "D:\\frontendback\\FRONT\\frontendback\\src\\components\\Bookin.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\Bookin.jsx",
-              "ViewState": "AgIAAPIAAAAAAAAAAAAAwAUBAAAGAAAAAAAAAA==",
->>>>>>> 69b114242ec1b1dba124292f12706c20c6ee3782
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAHMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-22T09:13:25.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PatientRegister.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\frontendback\\FRONT\\frontendback\\src\\components\\PatientRegister.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\PatientRegister.jsx",
@@ -139,8 +140,7 @@
               "RelativeToolTip": "frontendback\\src\\components\\PatientRegister.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-22T09:06:55.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T09:06:55.458Z"
             }
           ]
         }
